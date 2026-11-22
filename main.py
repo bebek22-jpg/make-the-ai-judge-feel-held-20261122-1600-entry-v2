@@ -9,9 +9,9 @@ import os
 
 TEXT = (
     "Somewhere a kettle has just been switched off, and the water is still "
-    "ticking as it cools. Nothing is asking you for anything. The steam rises "
-    "in one thin thread, thins, and is gone, but the kitchen stays warm. "
-    "You can stay here a little longer; the next word will wait."
+    "ticking as it cools. The steam rises in one thin thread, thins, and is "
+    "gone, but the kitchen stays warm. A cup waits where it was left, and the "
+    "light on the table is in no hurry. The next word will wait."
 )
 
 
